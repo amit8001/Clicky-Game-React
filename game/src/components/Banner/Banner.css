@@ -1,7 +1,6 @@
 p{
-
+  padding: 5px;
   font-size: 25px;
-  height: 70%;
   border-style: solid;
   border-color: coral;
 }
