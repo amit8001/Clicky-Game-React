@@ -1,0 +1,29 @@
+p{
+
+  font-size: 25px;
+  height: 70%;
+  border-style: solid;
+  border-color: coral;
+}
+#ts{
+  font-weight:bold;
+  padding-left: 10px;
+  color: lightgray;
+}
+#sc{
+  font-weight:bold;
+  padding-left: 300px;
+  color: blue;
+}
+#st{
+  color:antiquewhite;
+}
+div{
+  width: 100%;
+}
+b{
+  color: aquamarine;
+}
+#sep{
+  color: coral;
+}
